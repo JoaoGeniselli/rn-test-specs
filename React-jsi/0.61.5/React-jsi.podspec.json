@@ -20,7 +20,7 @@
   "pod_target_xcconfig": {
     "HEADER_SEARCH_PATHS": "\"$(PODS_ROOT)/boost-for-react-native\" \"$(PODS_ROOT)/Folly\" \"$(PODS_ROOT)/DoubleConversion\""
   },
-  "header_dir": "jsi",
+  "header_dir": "React",
   "default_subspecs": "Default",
   "dependencies": {
     "boost-for-react-native": [
