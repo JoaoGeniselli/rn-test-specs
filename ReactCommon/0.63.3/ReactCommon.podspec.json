@@ -51,8 +51,8 @@
         {
           "name": "core",
           "source_files": [
-            "turbomodule/core/*.{cpp,h}",
-            "turbomodule/core/platform/ios/*.{mm,cpp,h}"
+            "ReactCommon/turbomodule/core/*.{cpp,h}",
+            "ReactCommon/turbomodule/core/platform/ios/*.{mm,cpp,h}"
           ]
         },
         {

@@ -14,9 +14,11 @@
     "git": "https://github.com/facebook/react-native.git",
     "tag": "v0.63.3"
   },
-  "source_files": "*.{m,mm}",
+  "source_files": [
+    "Libraries/Blob/*.{m,mm,h}",
+    "Libraries/Blob/RCTBlobCollector.h"
+  ],
   "preserve_paths": [
-    "package.json",
     "LICENSE",
     "LICENSE-docs"
   ],
